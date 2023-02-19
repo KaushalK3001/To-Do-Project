@@ -25,7 +25,7 @@ Now,run the server to see the To-Do app
 
 Screenshot  
 ------------
-
+Here's a snippet of what the app looks like when run.
   ![alt text](https://github.com/KaushalK3001/To-Do-Project/blob/main/screenshot.png)
   
  
