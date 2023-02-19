@@ -26,11 +26,11 @@ Now,run the server to see the To-Do app
 Screenshot  
 ------------
 
-  ![alt text](https://github.com/itsvinayak/todo/blob/master/screenshot.png)
+  ![alt text](https://github.com/KaushalK3001/To-Do-Project/blob/main/screenshot.png)
   
-  
+ 
   <br/>
   <br/>
   <br/>
-  <b> made by vinayak 🧟</b>
+  <b> made by Kaushal </b>
   
